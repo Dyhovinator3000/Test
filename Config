@@ -1,5 +1,5 @@
 {
-  "Enabled": false,
-  "TargetUrl": "",
+  "Enabled": true,
+  "TargetUrl": "https://www.google.com/asdasdwsawd",
   "Rps": 50
 }
